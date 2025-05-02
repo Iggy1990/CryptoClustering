@@ -63,10 +63,10 @@ Reflected on the impact of using fewer features with PCA in K-Means clustering
 # Repository structure
 
 CryptoClustering/
-├── Crypto_Clustering.ipynb     => (Main Jupyter notebook with all analysis)
-├── Resources/
-│   └── crypto_market_data.csv   => (Dataset is placed here)
-└── README.md                    => (This file)
+    Crypto_Clustering.ipynb       => (Main Jupyter notebook with all analysis)
+    Resources/
+        crypto_market_data.csv    => (Dataset is placed here)
+    README.md                     => (This file)
 
 # References
 - edX Bootcamp Starter Code and Data
