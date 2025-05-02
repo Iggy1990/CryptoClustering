@@ -1,6 +1,6 @@
 ## CryptoClustering
 
-#Purpose 
+# Purpose 
 
 In this solo challenge, I used unsupervised learning techniques to analyze and cluster cryptocurrencies based on their 24-hour and 7-day price changes. The objective was to identify groupings and structure in the data using:
 
@@ -12,7 +12,7 @@ hvPlot for interactive visualizations
 
 The project was implemented in Python within a Jupyter Notebook, using data from crypto_market_data.csv.
 
-# How I did it
+# Step process
 
 1. Data Preparation
 Loaded and explored the crypto_market_data.csv dataset
